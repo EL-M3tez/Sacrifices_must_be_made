@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Sacrifices_must_be_made"
+run/main_scene="uid://cis66ed4rx7xp"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+mouse_cursor/custom_image="uid://chfwahdvcxvjk"
 
 [rendering]
 
